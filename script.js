@@ -99,6 +99,6 @@ function draw() {
   textSize(50)
   text(time.h + ':' + time.m + ':' + time.s,30,50)
   text("Bounces:" + bounces,window.innerWidth - 500,50)
-  textSize(10)
-  text('Open console (Ctrl + shift + j on chrome, Ctrl + shift + i on firefox) for sound.',5,680)
+//   textSize(10)
+//   text('Open console (Ctrl + shift + j on chrome, Ctrl + shift + i on firefox) for sound.',5,680)
 }
