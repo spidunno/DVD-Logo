@@ -1,0 +1,13 @@
+@font-face {
+	font-family: vcrEas;
+	src: url("assets/VCR_OSD_MONO_1.001.ttf");
+}
+
+.button {
+	color: white;
+	font-family: vcrEas;
+	background-color: black;
+	font-size: 10px;
+	border-style: solid;
+	border-color: rgb(20, 20, 20);
+}
